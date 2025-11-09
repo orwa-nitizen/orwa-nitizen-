@@ -36,7 +36,8 @@ with entry {
     family.add_edge("Alice", "Bob");
     print(family);
 }
-... python 
+
+
 # Python snippet: Visualize family graph
 import networkx as nx
 import matplotlib.pyplot as plt
